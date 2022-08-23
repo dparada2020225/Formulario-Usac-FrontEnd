@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d1a3d77.css",
-    "main.js": "/static/js/main.aacb8179.js",
-    "static/js/787.4b173dbb.chunk.js": "/static/js/787.4b173dbb.chunk.js",
-    "index.html": "/index.html",
-    "main.2d1a3d77.css.map": "/static/css/main.2d1a3d77.css.map",
-    "main.aacb8179.js.map": "/static/js/main.aacb8179.js.map",
-    "787.4b173dbb.chunk.js.map": "/static/js/787.4b173dbb.chunk.js.map"
+    "main.css": "/Formulario-Usac-FrontEnd/static/css/main.2d1a3d77.css",
+    "main.js": "/Formulario-Usac-FrontEnd/static/js/main.2b38ffe2.js",
+    "static/js/787.4b173dbb.chunk.js": "/Formulario-Usac-FrontEnd/static/js/787.4b173dbb.chunk.js",
+    "index.html": "/Formulario-Usac-FrontEnd/index.html",
+    "main.2d1a3d77.css.map": "/Formulario-Usac-FrontEnd/static/css/main.2d1a3d77.css.map",
+    "main.2b38ffe2.js.map": "/Formulario-Usac-FrontEnd/static/js/main.2b38ffe2.js.map",
+    "787.4b173dbb.chunk.js.map": "/Formulario-Usac-FrontEnd/static/js/787.4b173dbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d1a3d77.css",
-    "static/js/main.aacb8179.js"
+    "static/js/main.2b38ffe2.js"
   ]
 }
